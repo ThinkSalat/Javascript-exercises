@@ -1,0 +1,7 @@
+/* PHASE 6: Sidebar */
+.profile-picture {
+  display: block;
+  background-color: yellow;
+  content: 'asdfasdfasdf';
+  background-image: url("../images/cats.jpg");
+}
